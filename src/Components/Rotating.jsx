@@ -84,7 +84,7 @@ const Rotating = () => {
             </div>
             <div className="content">
               <div className="model">
-              <p className='text-7xl font-serif text-gray-700 mt-10'>Welcome to MacDonalds</p>
+              <p className='text-7xl font-serif text-gray-700 mt-10'>Welcome to McDonald's</p>
                 <p className='text-7xl font-serif text-gray-700 mt-10'>Enjoy our delicious meals!</p>
               </div>
             </div>
